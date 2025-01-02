@@ -23,11 +23,11 @@ global.botname = process.env.BOT_NAME || '᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '2349152662959' 
 //Type your number here
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Bisi∞lizzy†' 
 //Type your name here
 
 //=================================================//
@@ -41,7 +41,7 @@ global.packname = process.env.STICKER_PACK_NAME || "᙭ᑭᒪOᗩᗪᗴᖇ"
 //The sticker pack name
 
 //=================================================//
-global.author = process.env.STICKER_AUTHOR_NAME || "ᗷOT" 
+global.author = process.env.STICKER_AUTHOR_NAME || "itz bisi da baddie 🤪🥴" 
 //The sticker author name
 
 //=================================================//
@@ -53,16 +53,16 @@ global.xprefix = process.env.PREFIX || '.'
 //Set your desired prefix
 
 //=================================================//
-global.mode = process.env.MODE || 'public';
+global.mode = process.env.MODE || 'private';
 // Set to 'private' to enable private mode, otherwise default is 'public'
 
 //=================================================//
 global.hituet = 0 
 //=================================================//
-global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
+global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'false'
 
 //=================================================//
-global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'true'
+global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'false'
 
 //=================================================//
 global.anticall = process.env.ANTI_CALL || 'false'
@@ -79,7 +79,7 @@ global.timezones = process.env.TIMEZONE || "Africa/Nairobi"
 //Don't edit this if you don't know!
 
 //=================================================//
-global.countrycode = process.env.COUNTRY_CODE || '254' 
+global.countrycode = process.env.COUNTRY_CODE || '234' 
 //set your country code for functionality of blockforeign and antiforeign commands
 
 //=================================================//
